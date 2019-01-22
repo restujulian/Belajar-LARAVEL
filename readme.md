@@ -67,3 +67,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# HASIL Pertemuan 2
+
+* Membuat Model (SegiEmpat dan Kubus)
+* Membuat Controller (SegiEmpatController)
+* Membuat View ([hasil.blade], [hasilKubus.blade], [inputKubus.blade], [inputSegiEmpat.blade])
+
+## Output :
+* inputSegiEmpat.blade
+  ![Output](./ss_output/inputSegiEmpat.png)
+* hasil.blade
+  ![Output](./ss_output/hasilPerhitunganSegiEmpat.png)
+* inputKubus.blade
+  ![Output](./ss_output/inputKubus.png)
+* hasilKubus.blade
+  ![Output](./ss_output/inputPerhitunganKubus.png)
+

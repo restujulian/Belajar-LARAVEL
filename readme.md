@@ -13,7 +13,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <br/><br/>
 <hr/>
-# HASIL Pertemuan 2
+<h1 style=" background-color: lightblue; border-radius: 5px;">HASIL Pertemuan 2</h1>
 <hr/>
 
 * Membuat Model (SegiEmpat dan Kubus)

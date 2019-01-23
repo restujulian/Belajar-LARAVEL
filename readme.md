@@ -13,15 +13,20 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 <br/><br/>
 <hr/>
+
 # Pertemuan 1
+
 <hr/>
+
 ## Pengenalan Laravel
 * Overview PHP OOP
 * Instalasi dan Konfigurasi
 
 <br/><br/>
 <hr/>
+
 # Pertemuan 2
+
 <hr/>
 
 * Membuat Model (SegiEmpat dan Kubus)
@@ -39,7 +44,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
   ![Output](./ss_output/inputPerhitunganKubus.png)
 <br/><br/>
 <hr/>
+
 # Pertemuan 3
+
 <hr/>
 
 * Membuat Model (Kota dan Provinsi)
